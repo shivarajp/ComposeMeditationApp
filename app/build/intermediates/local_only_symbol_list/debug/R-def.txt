@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color deepblue
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_bubble
+drawable ic_headphone
+drawable ic_home
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_moon
+drawable ic_music
+drawable ic_play
+drawable ic_profile
+drawable ic_search
+drawable ic_videocam
+font gothica1_black
+font gothica1_bold
+font gothica1_medium
+font gothica1_regular
+font gothica1_semibold
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MeditationUIYouTube
+style Theme.MeditationUIYouTube.AppBarOverlay
+style Theme.MeditationUIYouTube.NoActionBar
+style Theme.MeditationUIYouTube.PopupOverlay
