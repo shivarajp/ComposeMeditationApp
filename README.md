@@ -9,6 +9,7 @@
 
   <tr>
     <td><img src="https://github.com/shivarajp/ComposeMeditationApp/blob/master/art/meditationui.gif" width="280" /></td>
+    <td><img src="" width="280" /></td>
 </tr>
  </table>
 
